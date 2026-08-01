@@ -39,6 +39,7 @@ I build **AI/LLM applications** — RAG systems, agents, and evaluation pipeline
 | Project | What it does | Stack |
 |---|---|---|
 | 🤖 **[Financial Filings RAG](https://github.com/MeetBabariya/financial-filings-rag)** | Chat with SEC 10-K/10-Q filings using retrieval-augmented generation | Claude · RAG · Vector DB |
+| 🧠 **[Financial Analyst Agent](https://github.com/MeetBabariya/financial-analyst-agent)** | AI agent that analyzes stocks by autonomously calling market-data & risk tools | Claude · Agents · Tool use |
 | 📊 **[Portfolio VaR Analyzer](https://github.com/MeetBabariya/Portfolio-VaR-Analyzer)** | Value-at-Risk analysis for investment portfolios | Python · Finance |
 | 📈 **[Volatility Curve Prediction](https://github.com/MeetBabariya/Volatility-Curve-Prediction)** | Data-imputation competition: predicting missing volatility values | ML · Jupyter |
 | 🧮 **[Black-Scholes vs Heston](https://github.com/MeetBabariya/Black-Scholes-vs.-Heston-Model)** | Comparing option-pricing models on real data | Python · Quant |
