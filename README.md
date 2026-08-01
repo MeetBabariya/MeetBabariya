@@ -29,7 +29,7 @@ I build **AI/LLM applications** — RAG systems, agents, and evaluation pipeline
 **AI / LLM:** Claude API · RAG · Embeddings · Vector DBs · Agents / Tool-use · Prompt engineering · Evals
 **ML / Data:** Python · PyTorch/scikit-learn · Pandas · NumPy · Jupyter · Spark
 **MLOps / Deploy:** Docker · FastAPI · Streamlit · Hugging Face Spaces · MLflow
-**Quant Finance:** Derivative pricing · Stochastic calculus · Options & Greeks · Black-Scholes / Heston · GARCH · VaR / CVaR · Monte Carlo · Fixed income
+**Quant Finance:** Derivative pricing · Stochastic calculus · Options & Greeks · Black-Scholes / Heston · GARCH · VaR / CVaR · Monte Carlo · Fixed income · Advanced Excel / VBA
 
 ---
 
@@ -52,6 +52,7 @@ I build **AI/LLM applications** — RAG systems, agents, and evaluation pipeline
 | 📊 **[Portfolio VaR Analyzer](https://github.com/MeetBabariya/Portfolio-VaR-Analyzer)** | Value-at-Risk analysis for investment portfolios | Python · Finance |
 | 📈 **[Volatility Curve Prediction](https://github.com/MeetBabariya/Volatility-Curve-Prediction)** | Data-imputation competition: predicting missing volatility values | ML · Jupyter |
 | 🧮 **[Black-Scholes vs Heston](https://github.com/MeetBabariya/Black-Scholes-vs.-Heston-Model)** | Comparing option-pricing models on real data | Python · Quant |
+| 📗 **[Excel VBA Risk Toolkit](https://github.com/MeetBabariya/excel-vba-portfolio-toolkit)** | Macro-driven portfolio risk report (VaR, Sharpe) with OOP VBA & charts | Excel · VBA · Finance |
 
 ---
 
