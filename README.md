@@ -8,7 +8,7 @@
   <!-- Fill these in / replace with your real links -->
   <a href="mailto:meetbabariya001@gmail.com">📧 Email</a> ·
   <a href="#">💼 LinkedIn</a> ·
-  <a href="#">🌐 Portfolio</a> ·
+  <a href="https://meetbabariya.github.io">🌐 Portfolio</a> ·
   <a href="https://www.kaggle.com/">📊 Kaggle</a>
 </p>
 
