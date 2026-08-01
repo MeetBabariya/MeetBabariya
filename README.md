@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-  <!-- Fill these in / replace with your real links -->
-  <a href="mailto:meetbabariya001@gmail.com">📧 Email</a> ·
-  <a href="#">💼 LinkedIn</a> ·
   <a href="https://meetbabariya.github.io">🌐 Portfolio</a> ·
-  <a href="https://www.kaggle.com/">📊 Kaggle</a>
+  <a href="mailto:meetbabariya001@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/meet-babariya-3044b0196/">💼 LinkedIn</a> ·
+  <a href="https://www.kaggle.com/meetbabariya">📊 Kaggle</a>
 </p>
 
 ---
@@ -30,7 +29,16 @@ I build **AI/LLM applications** — RAG systems, agents, and evaluation pipeline
 **AI / LLM:** Claude API · RAG · Embeddings · Vector DBs · Agents / Tool-use · Prompt engineering · Evals
 **ML / Data:** Python · PyTorch/scikit-learn · Pandas · NumPy · Jupyter · Spark
 **MLOps / Deploy:** Docker · FastAPI · Streamlit · Hugging Face Spaces · MLflow
-**Finance:** VaR / CVaR · GARCH · Monte Carlo · Time-series modeling
+**Quant Finance:** Derivative pricing · Stochastic calculus · Options & Greeks · Black-Scholes / Heston · GARCH · VaR / CVaR · Monte Carlo · Fixed income
+
+---
+
+### 🏅 Certifications & achievements
+
+- 🥈 **Kaggle Competition Silver Medalist** — top 4% (120 / 3,325 teams), CIBMTR survival prediction
+- 🏆 **WorldQuant BRAIN — Gold Level** · 🎓 **Applied Data Science Lab**, WorldQuant University
+- 📜 **NISM (SEBI) — Equity Derivatives** & **Research Analyst** certifications
+- 💹 **AlgoTrade Hackathon 2025** (Zagreb) · MIT OpenCourseWare *Financial Mathematics*
 
 ---
 
