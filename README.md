@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Meet Babariya 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> · building LLM-powered systems with a background in quantitative finance & data science
+  <b>AI Engineer × Quant</b> · ML Benchmark Engineer at <b>Datacurve (YC)</b> · ex-derivatives trader · Kaggle Expert (top 1%)
 </p>
 
 <p align="center">
-  <a href="https://meetbabariya.github.io">🌐 Portfolio</a> ·
+  <a href="https://meetbabariya.github.io">🌐 Portfolio</a> · <a href="https://meetbabariya.github.io/?lens=quant">📈 Quant view</a> ·
   <a href="mailto:meetbabariya001@gmail.com">📧 Email</a> ·
   <a href="https://www.linkedin.com/in/meet-babariya-3044b0196/">💼 LinkedIn</a> ·
   <a href="https://www.kaggle.com/meetbabariya">📊 Kaggle</a>
@@ -15,20 +15,21 @@
 
 ### 🚀 About me
 
-I build **AI/LLM applications** — RAG systems, agents, and evaluation pipelines — and bring a strong foundation in **quantitative finance and machine learning**. My edge: I apply modern AI engineering to real financial problems (risk, volatility, document analysis) rather than toy demos.
+I build **AI systems that are measured, not guessed**. That means LLM apps, agents and the benchmarks that evaluate them, plus quant research that holds up out of sample.
 
-- 🔭 Currently building AI engineering projects with **Anthropic Claude**, RAG, and agent tooling
-- 📈 Deep background in **quant finance**: Value-at-Risk, GARCH, option pricing (Black-Scholes / Heston), credit risk
-- 🧠 Comfortable across the stack: data wrangling → modeling → evaluation → deployment
-- 🎯 Open to **AI Engineer / ML Engineer** roles
+- 🧪 **ML Benchmark Engineer @ Datacurve (Y Combinator)**: I design Kaggle-style challenges (data pipeline, grader, rubrics, reference solution) used to train and evaluate autonomous AI agents, and calibrate them so frontier agents score below 0.8
+- 📈 **2.5 years trading** NIFTY / BANKNIFTY weekly options on a live desk; **12th in Germany** in IMC Prosperity 4 (230 / 18,803)
+- 🛠️ Ships full-stack: TypeScript / Next.js / FastAPI / PostgreSQL (QuantPilot: AI copilot + quant-ranked copy trading on Hyperliquid)
+- 🎓 B.Sc. International Business Information Systems, Furtwangen University (grade 1.55)
+- 🎯 Open to **AI/ML engineering & quant internships / Werkstudent roles in Germany**
 
 ---
 
 ### 🛠️ Tech I work with
 
-**AI / LLM:** Claude API · RAG · Embeddings · Vector DBs · Agents / Tool-use · Prompt engineering · Evals
+**AI / LLM:** Claude & OpenAI APIs · RAG · Embeddings · Vector DBs · Agents / Tool-use · LLM evaluation · Benchmark design · Fine-tuning
 **ML / Data:** Python · PyTorch/scikit-learn · Pandas · NumPy · Jupyter · Spark
-**MLOps / Deploy:** Docker · FastAPI · Streamlit · Hugging Face Spaces · MLflow
+**Software / Deploy:** TypeScript · Next.js · FastAPI · PostgreSQL · Docker · Streamlit · Vercel
 **Quant Finance:** Derivative pricing · Stochastic calculus · Options & Greeks · Black-Scholes / Heston · GARCH · VaR / CVaR · Monte Carlo · Fixed income · Advanced Excel / VBA
 
 ---
